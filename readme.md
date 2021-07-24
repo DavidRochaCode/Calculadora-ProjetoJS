@@ -1,0 +1,1 @@
+Calculadora feita como exercício de JavaScript.
